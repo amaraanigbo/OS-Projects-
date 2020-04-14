@@ -3,8 +3,7 @@
 ##### Amara Anigbo and Max Barrett 
 -------------------------------------
 ### Description of Project 
-This project supports a UNIX shell in C which has it's own internal commands. 
-This 
+This project created a UNIX shell in C which has it's own internal commands. 
 
 ### How to run Program 
 1. In the terminal, use the "cd" command to get to the folder for the project titled "s20cs354p1_anigbobarrett".
